@@ -1,0 +1,24 @@
+--archmage's charm-- price trends:====
+lowest price: 1.68
+highest price: 1.68
+--faithless looting-- price trends:==,==
+lowest price: 1.0857142857142856
+highest price: 1.06
+--grim monolith-- price trends:==^==
+lowest price: 172.64
+highest price: 66.05666666666666
+--time spiral-- price trends:==^==
+lowest price: 77.02
+highest price: 27.058
+--mox opal-- price trends:==,==
+lowest price: 142.92199999999997
+highest price: 93.18
+--scapeshift-- price trends:==
+lowest price: 17.26
+highest price: 17.26
+--tundra-- price trends:=
+lowest price: 286.99
+highest price: 286.99
+--underground sea-- price trends:=
+lowest price: 545.93
+highest price: 545.93
